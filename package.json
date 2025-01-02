@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@mapbox/mbtiles": "^0.12.1",
-    "@maplibre/maplibre-gl-native": "5.2.0",
+    "@maplibre/maplibre-gl-native": "6.0.0",
     "axios": "^1.6.7",
     "express": "^4.19.2",
     "sharp": "^0.33.2",
